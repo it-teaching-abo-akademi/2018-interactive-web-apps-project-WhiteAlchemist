@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/2018-interactive-web-apps-project-WhiteAlchemist/precache-manifest.f942fddbea892e41840881bf6e58428e.js"
+  "/2018-interactive-web-apps-project-WhiteAlchemist/precache-manifest.75613cff73557f38c14fa8cb5a29ab59.js"
 );
 
 workbox.clientsClaim();
