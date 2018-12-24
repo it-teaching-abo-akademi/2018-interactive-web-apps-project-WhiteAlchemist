@@ -5,10 +5,15 @@
   "private": true,
   "dependencies": {
     "axios": "^0.18.0",
+    "c3": "^0.6.11",
+    "chartist": "^0.11.0",
+    "dygraphs": "^2.1.0",
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
+    "react-c3js": "^0.1.20",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-scripts": "2.1.1",
+    "save": "^2.3.3"
   },
   "scripts": {
     "predeploy": "npm run build",
