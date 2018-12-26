@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/2018-interactive-web-apps-project-WhiteAlchemist/static/js/runtime~main.d20d4b35.js"
   },
   {
-    "revision": "a1b70648b4407046e333",
-    "url": "/2018-interactive-web-apps-project-WhiteAlchemist/static/js/main.a1b70648.chunk.js"
+    "revision": "7907b12c3e295859113d",
+    "url": "/2018-interactive-web-apps-project-WhiteAlchemist/static/js/main.7907b12c.chunk.js"
   },
   {
     "revision": "82f511c9c15aacbf6ba3",
     "url": "/2018-interactive-web-apps-project-WhiteAlchemist/static/js/1.82f511c9.chunk.js"
   },
   {
-    "revision": "a1b70648b4407046e333",
+    "revision": "7907b12c3e295859113d",
     "url": "/2018-interactive-web-apps-project-WhiteAlchemist/static/css/main.0de9d0ae.chunk.css"
   },
   {
@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/2018-interactive-web-apps-project-WhiteAlchemist/static/css/1.b6dbde93.chunk.css"
   },
   {
-    "revision": "a09e06d852c31785dcc0137d03ea7ebb",
+    "revision": "53f3370687f949d144d7c632c3511da5",
     "url": "/2018-interactive-web-apps-project-WhiteAlchemist/index.html"
   }
 ];
