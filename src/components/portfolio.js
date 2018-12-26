@@ -309,17 +309,18 @@ class Portfolio extends React.Component{
         this.props.deletePortfolio(this.props.index)
     }
 
-    selected = (i) =>
-    {
+    selected = (i) => {
         let arr = this.state.selected
 
-        if (arr.indexOf(i) != -1)
-            arr.splice(arr.indexOf(i))
+        if (arr.indexOf(i) > -1)
+        {
+            arr.splice(arr.indexOf(i),1)
+        }
         else
-        arr.push(i)
+             arr.push(i)
 
         this.setState({selected: arr})
-        console.log('Items selected'+arr)
+        console.log('Selected Items: '+arr)
     }
 
     eachStock(text,i)

@@ -18,9 +18,8 @@ class Stock extends  React.Component{
     isSelected = () =>
     {
         var isSelected = this.state.selected;
+
         isSelected = !isSelected;
-
-
         this.setState({selected: isSelected});
         this.props.selected(this.props.index);
         console.log("you selected me!" + this.props.index + " " + isSelected)
