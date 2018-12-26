@@ -1,7 +1,7 @@
 {
   "main.css": "/2018-interactive-web-apps-project-WhiteAlchemist/static/css/main.0de9d0ae.chunk.css",
-  "main.js": "/2018-interactive-web-apps-project-WhiteAlchemist/static/js/main.a44a765f.chunk.js",
-  "main.js.map": "/2018-interactive-web-apps-project-WhiteAlchemist/static/js/main.a44a765f.chunk.js.map",
+  "main.js": "/2018-interactive-web-apps-project-WhiteAlchemist/static/js/main.1d507ac6.chunk.js",
+  "main.js.map": "/2018-interactive-web-apps-project-WhiteAlchemist/static/js/main.1d507ac6.chunk.js.map",
   "static/css/1.b6dbde93.chunk.css": "/2018-interactive-web-apps-project-WhiteAlchemist/static/css/1.b6dbde93.chunk.css",
   "static/js/1.82f511c9.chunk.js": "/2018-interactive-web-apps-project-WhiteAlchemist/static/js/1.82f511c9.chunk.js",
   "static/js/1.82f511c9.chunk.js.map": "/2018-interactive-web-apps-project-WhiteAlchemist/static/js/1.82f511c9.chunk.js.map",
@@ -10,6 +10,6 @@
   "static/css/1.b6dbde93.chunk.css.map": "/2018-interactive-web-apps-project-WhiteAlchemist/static/css/1.b6dbde93.chunk.css.map",
   "static/css/main.0de9d0ae.chunk.css.map": "/2018-interactive-web-apps-project-WhiteAlchemist/static/css/main.0de9d0ae.chunk.css.map",
   "index.html": "/2018-interactive-web-apps-project-WhiteAlchemist/index.html",
-  "precache-manifest.d06032190c14a743808a496c487a57a5.js": "/2018-interactive-web-apps-project-WhiteAlchemist/precache-manifest.d06032190c14a743808a496c487a57a5.js",
+  "precache-manifest.aff695c2e152807240f9378d9f0178c5.js": "/2018-interactive-web-apps-project-WhiteAlchemist/precache-manifest.aff695c2e152807240f9378d9f0178c5.js",
   "service-worker.js": "/2018-interactive-web-apps-project-WhiteAlchemist/service-worker.js"
 }
